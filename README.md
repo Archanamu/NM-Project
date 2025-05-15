@@ -96,6 +96,6 @@ $$conv(X \Rightarrow Y) = \frac{1-supp(Y)}{1-conf(X \Rightarrow Y)}$$
 <p>If you have something to say to me please contact me:</p>
 
 <ul>
-  <li>Twitter: <a href="https://twitter.com/Doguilmak">Doguilmak</a></li>
-  <li>Mail address: doguilmak@gmail.com</li>
+
+  <li>Mail address: archanamurugan1105@gmail.com</li>
 </ul>
